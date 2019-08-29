@@ -1,0 +1,11 @@
+D:\Personals\CollisionExample\bin\Debug\netcoreapp2.2\collisionexample.deps.json
+D:\Personals\CollisionExample\bin\Debug\netcoreapp2.2\collisionexample.runtimeconfig.json
+D:\Personals\CollisionExample\bin\Debug\netcoreapp2.2\collisionexample.runtimeconfig.dev.json
+d:\Personals\CollisionExample\bin\Debug\netcoreapp2.2\collisionexample.dll
+d:\Personals\CollisionExample\bin\Debug\netcoreapp2.2\collisionexample.pdb
+d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.csprojAssemblyReference.cache
+d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.csproj.CoreCompileInputs.cache
+d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.AssemblyInfoInputs.cache
+d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.AssemblyInfo.cs
+d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.dll
+d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.pdb
