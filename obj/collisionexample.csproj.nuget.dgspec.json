@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personals\\CollisionExample\\collisionexample.csproj": {}
+    "C:\\Works\\Personal\\ColliderExample\\collisionexample.csproj": {}
   },
   "projects": {
-    "D:\\Personals\\CollisionExample\\collisionexample.csproj": {
+    "C:\\Works\\Personal\\ColliderExample\\collisionexample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personals\\CollisionExample\\collisionexample.csproj",
+        "projectUniqueName": "C:\\Works\\Personal\\ColliderExample\\collisionexample.csproj",
         "projectName": "collisionexample",
-        "projectPath": "D:\\Personals\\CollisionExample\\collisionexample.csproj",
-        "packagesPath": "C:\\Users\\KwanHong\\.nuget\\packages\\",
-        "outputPath": "D:\\Personals\\CollisionExample\\obj\\",
+        "projectPath": "C:\\Works\\Personal\\ColliderExample\\collisionexample.csproj",
+        "packagesPath": "C:\\Users\\rhksg\\.nuget\\packages\\",
+        "outputPath": "C:\\Works\\Personal\\ColliderExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\KwanHong\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rhksg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

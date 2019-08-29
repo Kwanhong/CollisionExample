@@ -67,6 +67,16 @@ namespace Collision
                 for (int y = 0; y < Cols; y++)
                     this.Data[x][y] = copy.Data[x][y];
         }
+
+        public Matrix(Vector2f vector2)
+        {
+            Rows = 2;
+            Cols = 1;
+
+            Data = new float[Rows][];
+            Data[0] = new float[] { vector2.X };
+            Data[1] = new float[] { vector2.Y };
+        }
         #endregion
 
         #region NonStatic Methods

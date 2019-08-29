@@ -9,3 +9,14 @@ d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.AssemblyI
 d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.AssemblyInfo.cs
 d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.dll
 d:\Personals\CollisionExample\obj\Debug\netcoreapp2.2\collisionexample.pdb
+C:\Works\Personal\ColliderExample\bin\Debug\netcoreapp2.2\collisionexample.deps.json
+C:\Works\Personal\ColliderExample\bin\Debug\netcoreapp2.2\collisionexample.runtimeconfig.json
+C:\Works\Personal\ColliderExample\bin\Debug\netcoreapp2.2\collisionexample.runtimeconfig.dev.json
+c:\Works\Personal\ColliderExample\bin\Debug\netcoreapp2.2\collisionexample.dll
+c:\Works\Personal\ColliderExample\bin\Debug\netcoreapp2.2\collisionexample.pdb
+c:\Works\Personal\ColliderExample\obj\Debug\netcoreapp2.2\collisionexample.csprojAssemblyReference.cache
+c:\Works\Personal\ColliderExample\obj\Debug\netcoreapp2.2\collisionexample.csproj.CoreCompileInputs.cache
+c:\Works\Personal\ColliderExample\obj\Debug\netcoreapp2.2\collisionexample.AssemblyInfoInputs.cache
+c:\Works\Personal\ColliderExample\obj\Debug\netcoreapp2.2\collisionexample.AssemblyInfo.cs
+c:\Works\Personal\ColliderExample\obj\Debug\netcoreapp2.2\collisionexample.dll
+c:\Works\Personal\ColliderExample\obj\Debug\netcoreapp2.2\collisionexample.pdb
