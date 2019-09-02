@@ -73,6 +73,18 @@ namespace Collision
             var tN = a * e - b * d;
             var tD = a * c - b * b;
 
+            if (tN < 0f)
+            {
+                tN = 0f;
+                sN = -d;
+                sD = a;
+            }
+            else if (tN > tD)
+            {
+                tN = tD;
+                sN = -d + b;
+                sD = a;
+            }
             if (sN < 0f)
             {
                 sN = 0f;
@@ -85,17 +97,12 @@ namespace Collision
                 tN = e + b;
                 tD = c;
             }
-            if (tN < 0f)
-            {
-                tN = 0f;
-            }
-            else if (tN > tD)
-            {
-                tN = tD;
-            }
 
             sc = sN / sD;
             tc = tN / tD;
+
+            if (tc < 0) tc = 0;
+            if (tc > 1) tc = 1;
 
             var w1 = Matrix.Subtract(Matrix.Add(w0, Matrix.Multiply(u, sc)), Matrix.Multiply(v, tc));
             //P1 = Matrix.Add(P0, Matrix.Multiply(u, sc));
